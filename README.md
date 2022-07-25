@@ -23,4 +23,4 @@ messenger RNA (mess-rna), proteomic (rppa), and microbiome (mbio).
 
 The file name reports the year gap. 
 
-Files for the methylation data (of size roughly 200MB, 300MB and 600MB) can be obtained upon request to the author.
+Files for the methylation data used to obtain the 7th fingerprint (of size roughly 200MB, 300MB and 600MB) can be obtained upon request to the author.
