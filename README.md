@@ -30,4 +30,4 @@ The file name reports the year gap.
 Files for the methylation data used to obtain the 7th fingerprint (of size roughly 200MB, 300MB and 600MB) can be obtained upon request to the author.
 
 File Table-prc-tcga-cohort-2022-07-27  is a csv file with additional performance  measures for the CVN-selected fingerprints.
-File Table-ind-cohorts-bootstrap-factor3-2022-07-31-reduced is a csv file with additioanl performance measures for bootstrap evaluation of fingerprints on independent cohorts
+File Table-ind-cohorts-bootstrap-factor3-2022-07-31-reduced is a csv file with additional performance measures for bootstrap evaluation of fingerprints on independent cohorts
