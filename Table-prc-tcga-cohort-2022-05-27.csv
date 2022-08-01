@@ -1,0 +1,10 @@
+file n.	Dataset	End-point	Time-frame	Fp	n. pats	high risk 	low risk	n.a.	OR	OR 95% CI	P-val	kappa	AUC	AUC-pval	PPV	NPV	Sen	Spe	log rank pval	lookup	source pareto logs	source Ng logs
+0	TCGA-PRAD-mrna	DFS	2-3	Fp_0_pareto	53	13	40	1	13	[1.2,  139.9]	0.03	0.29	0.72	0.005	0.25	0.97	0.75	0.82	1.60E-005	2	log_0_2022_05_15_testing_all_option-v7.txt	log_Ng_prc_0_2022_05_16_filter2000_slack02.txt
+1	TCGA-PRAD-mrna	DFS	3-4	Fp_1_Ng	37	15	22	3	20	[2.0,  192.6]	0.01	0.54	0.7	0.01	0.5	1	1	0.74	1.50E-005	0	log_1_2022_05_15_testing_all_option-v1.txt	log_Ng_prc_1_2022_05_16_filter2000_slack02.txt
+12	TCGA-PRAD-rppa	DFS	2-3	Fp_12_pareto	39	8	31	3	21	[1.7,  254.2]	0.01	0.47	0.62	0.16	0.42	0.96	0.75	0.87	0.004	1	Log_12_2022_05_15_testing_all_option-v1.txt	log_Ng_prc_12_2022_05_16_filter2000_slack02.txt
+14	TCGA-PRAD-rppa	DFS	4-5	Fp_14_pareto	19	12	7	2	12	[0.93, 153.8]	0.1	0.49	0.71	0.05	0.9	0.57	0.75	0.8	0.08	1	Log_14_2022_05_15_testing_all_option-v1.txt	log_Ng_prc_14_2022_05_18_filter2000_slack02.txt
+30	TCGA-PRAD-rppa-mbio	DFS	3-4	Fp_30_Ng	25	9	16	0	18.75	[1.6,   209.5]	0.01	0.53	0.72	0.03	0.55	0.93	0.83	0.78	0.01	0	Log_30_2022_05_15_testing_all_option-v1.txt	log_Ng_prc_30_2022_05_16_filter2000_slack02.txt
+20	TCGA-PRAD-rppa-mrna	DFS	2-3	Fp_20_Ng	39	8	31	2	17.14	[1.7,   172.0]	0.008	0.43	0.79	0.01	0.83	0.77	0.41	0.96	0.0009	0	Log_20_2022_07_05_testing_all_option-pareto.txt	log_Ng_prc_20_2022_07_05_filter2000_slack02.txt
+37	TCGA-PRAD-methyl	DFS	3-4	Fp_37_pareto	31	12	19	0	16	[2.6,     96.4]	0.001	0.59	0.78	0.004	0.75	0.84	0.75	0.84	7.07E-005	1	log_37_2022_05_27_testing_all_option-pareto_seection_v1.txt	log_Ng_prc_37_2022_05_27_filter2000_slack02_v1.txt
+																						
+				Average					16.8414285714		0.0113322433	0.4771428571	0.72	0.0173851051					0.0006497071			
