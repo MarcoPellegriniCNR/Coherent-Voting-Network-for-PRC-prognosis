@@ -1,7 +1,11 @@
 # Coherent-Voting-Network-for-PRC-prognosis
-Supporting materials for the report
-"Accurate prognosis for localized prostate cancer through coherent voting networks and multi-omic data",
-by Marco Pellegrini. Updated as of Juny 25th 2022.
+Supporting materials for the report:
+
+Marco Pellegrini 
+Accurate prognosis for localized prostate cancer through coherent voting networks and multi-omic data  
+medRxiv 2022.07.28.22278156; doi: https://doi.org/10.1101/2022.07.28.22278156 (July 2022)    https://www.medrxiv.org/content/10.1101/2022.07.28.22278156v1
+
+Updated as of July 31st 2022.
 
 
 This directory  contains the train-validate-test data sets used for deriving six prognostic fingerprints in prostate cancer. 
