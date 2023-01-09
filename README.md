@@ -31,5 +31,5 @@ Files for the methylation data used to obtain the 7th fingerprint (of size rough
 
 File Table-prc-tcga-cohort-2022-07-27  is a csv file with additional performance  measures for the CVN-selected fingerprints.
 File Table-ind-cohorts-bootstrap-factor3-2022-07-31-reduced is a csv file with additional performance measures for bootstrap evaluation of fingerprints on independent cohorts. 
-File Table-mixed-clinical-genomic-2023-01-09-reduced.csv is a comma-separated csv file holding performance measures for the mixed clincial and genomic fingerprint fp160.
+File Table-mixed-clinical-genomic-2023-01-09-reduced.csv is a comma-separated csv file holding performance measures for the mixed clinical and genomic fingerprint fp160.
 
