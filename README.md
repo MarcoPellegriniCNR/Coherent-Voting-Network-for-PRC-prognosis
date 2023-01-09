@@ -8,7 +8,7 @@ medRxiv 2022.07.28.22278156; doi: https://doi.org/10.1101/2022.07.28.22278156 (J
 Updated as of July 31st 2022.
 
 
-This directory  contains the train-validate-test data sets used for deriving six prognostic fingerprints in prostate cancer. 
+This directory  contains the train-validate-test data sets used for deriving six prognostic fingerprints in prostate cancer and the mixed clinical and genomic fingerprint. 
 Each file is a tab-separated csv text file. 
 The first line holds TCGA-PRAD patient ID. 
 The second line holds the survival class:
@@ -30,4 +30,6 @@ The file name reports the year gap.
 Files for the methylation data used to obtain the 7th fingerprint (of size roughly 200MB, 300MB and 600MB) can be obtained upon request to the author.
 
 File Table-prc-tcga-cohort-2022-07-27  is a csv file with additional performance  measures for the CVN-selected fingerprints.
-File Table-ind-cohorts-bootstrap-factor3-2022-07-31-reduced is a csv file with additional performance measures for bootstrap evaluation of fingerprints on independent cohorts
+File Table-ind-cohorts-bootstrap-factor3-2022-07-31-reduced is a csv file with additional performance measures for bootstrap evaluation of fingerprints on independent cohorts. 
+File Table-mixed-clinical-genomic-2023-01-09-reduced.csv is a comma-separated csv file holding performance measures for the mixed clincial and genomic fingerprint fp160.
+
